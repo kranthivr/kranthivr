@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kranthivr
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Front End Projects
+- 📫 Reach me at <a href="mailto:kranthi.neo1@gmail.com"><img alt="Email"></a>
