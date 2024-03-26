@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @kranthivr
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Front End Projects
+- 👀 I’m a Full Stack Developer
 - 📫 Reach me at <a href="mailto:kranthi.neo1@gmail.com"><img src="https://img.shields.io/badge/Email-kranthi.neo1@gmail.com-blue?style=flat-square&logo=gmail" alt="email"/></a>
